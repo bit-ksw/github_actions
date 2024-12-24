@@ -13,6 +13,7 @@ export default function Home() {
           height={38}
           priority
         />
+        <div>ddd</div>
         <ol>
           <li>
             Get started by editing <code>src/app/page.tsx</code>.
